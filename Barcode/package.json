@@ -1,0 +1,20 @@
+{
+  "name": "testbarcode",
+  "version": "1.0.0",
+  "description": "bcode",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "bcode"
+  ],
+  "author": "prasath",
+  "license": "ISC",
+  "dependencies": {
+    "bwip-js": "^1.6.3",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "make-dir": "^1.2.0"
+  }
+}
